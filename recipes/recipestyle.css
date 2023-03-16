@@ -77,6 +77,10 @@ footer {
   transform: translate(-50%, -50%);
 }
 
+.ingredients, .description {
+  text-align: start;
+}
+
 
 
 /*images*/
