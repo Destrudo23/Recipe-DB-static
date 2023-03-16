@@ -20,6 +20,15 @@ header, footer {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+  color: #3a5a40;
+}
+
+li {
+  color: #3a5a40;
+}
+
 .recipe-section {
   height: 70vh; 
   text-align: center;
