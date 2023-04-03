@@ -80,6 +80,28 @@ footer {
 }
 
 
+/* Firefox */
+
+*{
+  scrollbar-width: auto;
+  scrollbar-color: #3a5a40 #dad7cd;
+}
+
+/* Other browsers */
+
+*::-webkit-scrollbar{
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track{
+  background: #dad7cd;
+}
+
+*::-webkit-scrollbar-thumb{
+  background-color: #3a5a40;
+  border-radius: 4.6px;
+  border: 1px solid #a3b18a;
+}
 
 
 
